@@ -1,0 +1,28 @@
+.h1{
+    width: fit-content;
+    margin: auto;
+}
+.form{
+    /* border: 1px solid black; */
+    width: fit-content;
+    margin: auto;
+    margin-top: 4rem;
+    padding: 2rem 2rem;
+    font-size: 1rem;
+    background-color: rgb(107, 196, 196);
+}
+.body{
+    /* border: 2px solid black; */
+    height: 100vh;
+    background-color: rgb(108, 108, 172);
+    
+}
+.button{
+    margin-top: 1rem;
+    border: 0px;
+   background-color: aqua;
+   padding: 0.8rem 1.5rem;
+}
+.input1{
+    margin-left: 1.5rem;
+}
